@@ -7,5 +7,5 @@ A comfortable starting point for React personal projects.
 
 * React, JSX, and ES6 support
 * React Router
-* Server with live reload, testing and build process (by [react-scripts](https://www.npmjs.com/package/react-scripts))
+* Server with live reload, testing and build process (using [react-scripts](https://www.npmjs.com/package/react-scripts))
 
