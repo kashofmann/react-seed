@@ -1,0 +1,23 @@
+{
+  "name": "Project Name",
+  "description": "Project Description",
+  "main": "main.js",
+  "authors": [
+    "Kasper Hofmann"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "this",
+    "and",
+    "that"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

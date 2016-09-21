@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "name": "react-seed",
+  "version": "0.0.1",
+  "description": "A comfortable starting point for React personal projects.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "react-scripts": "^0.4.3"
+  },
+  "devDependencies": {
+    "react-router": "^2.8.1",
+    "react-scripts": "^0.4.3"
+  },
+  "keywords": [
+    "React",
+    "boilerplate",
+    "seed"
+  ],
+  "author": "Kasper Hofmann",
+  "license": "MIT"
+}
